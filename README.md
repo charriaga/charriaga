@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/charlie-arriaga/"><img src="img/icons8-linkedin-48.png"/></a>
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=charriaga&left_color=purple&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=charriaga&left_color=green&right_color=red)
 
 ### Professional Competencies
 
