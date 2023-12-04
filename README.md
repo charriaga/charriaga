@@ -1,16 +1,16 @@
-### Hi there 👋
+![placeholder header](img/Mermay%201.png)
 
-<!--
-**charriaga/charriaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+    <a href="https://www.linkedin.com/in/charlie-arriaga/"><img src="img/icons8-linkedin-48.png"/></a>
+</p>
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=charriaga&left_color=purple&right_color=red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Professional Competencies
+
+- Leadership
+- A Growth Mindset
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=charriaga&Layout=compact)](https://github.com/charriaga/github-readme-stats)
+
+
